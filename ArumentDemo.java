@@ -4,6 +4,10 @@ public static void main(String[] args){
 System.out.println("the following arguments are passed during runtime");
 System.out.println(args[0]);
 System.out.println(args[1]);
+
+
+
+
 System.out.println(args[2]);
 int first,second,sum;
 System.out.println("Testing...");
